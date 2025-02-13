@@ -2,7 +2,7 @@
 **Course:** Fundamentals of Big Data Analytics and BI  
 **Name:** Mikias Bayle  
 **ID:** DBUR 0262/13  
-**GitHub Repository:** [ecommerce-pipeline](https://github.com/miki1007/ecommerce-pipeline)
+
 
 ---
 
@@ -96,18 +96,19 @@ Interactive dashboards were built in Tableau to extract key insights from the e-
 **Sales Trends**  
 - Revenue showed a sharp increase in **Q4**, primarily due to holiday shopping events.  
 - The **electronics** category accounted for **35%** of total revenue, highlighting its dominance in the market.  
-![Sales Trends]((https://github.com/miki1007/ecommerce-pipeline/blob/main/Screenshot%202025-02-13%20at%208.29.41%20in%20the%20evening.png))
+![E-commerce Screenshot 1](https://github.com/miki1007/ecommerce-pipeline/blob/main/Screenshot%202025-02-13%20at%209.06.11%20at%20night.png)
 
-()
+
 
 **Customer Segmentation**  
 - **60%** of customers were based in **São Paulo (SP)**, making it the most significant market region.  
 - The highest-revenue states included **São Paulo (SP)**, **Rio de Janeiro (RJ)**, and **Minas Gerais (MG)**, demonstrating strong consumer demand in these areas.  
 
+![E-commerce Screenshot 2](https://github.com/miki1007/ecommerce-pipeline/blob/main/Screenshot%202025-02-13%20at%209.51.45%20at%20night.png)
 **Product Performance**  
 - Top-selling categories were **Electronics**, **Furniture**, and **Home Appliances**, reflecting popular consumer preferences.  
 - Products with higher weights tended to receive lower customer ratings, suggesting potential logistics or quality issues.  
-
+![E-commerce Screenshot](https://github.com/miki1007/ecommerce-pipeline/blob/main/Screenshot%202025-02-13%20at%208.29.41%20in%20the%20evening.png)
 ---
 
 ****6. Conclusion****  

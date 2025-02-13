@@ -96,6 +96,9 @@ Interactive dashboards were built in Tableau to extract key insights from the e-
 **Sales Trends**  
 - Revenue showed a sharp increase in **Q4**, primarily due to holiday shopping events.  
 - The **electronics** category accounted for **35%** of total revenue, highlighting its dominance in the market.  
+![Sales Trends]((https://github.com/miki1007/ecommerce-pipeline/blob/main/Screenshot%202025-02-13%20at%208.29.41%20in%20the%20evening.png))
+
+()
 
 **Customer Segmentation**  
 - **60%** of customers were based in **São Paulo (SP)**, making it the most significant market region.  
